@@ -1,12 +1,17 @@
 body {
-  display: block;
-  max-width: 600px;
   background: #f9e8a6;
 }
 
 h1,
 p {
   text-align: center;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 8px;
+  display: block;
+  margin: 20px;
 }
 
 .menu {
