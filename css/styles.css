@@ -1,8 +1,15 @@
 body {
   max-width: 600px;
+  background: #f9e8a6;
+}
+
+h1,
+p {
+  text-align: center;
 }
 
 .menu {
   display: grid;
   grid-template-columns: 200px 200px 200px;
+  text-align: center;
 }
